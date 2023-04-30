@@ -1,0 +1,37 @@
+.btn{
+    padding:5px 15px; 
+    background-color:blue; 
+    color:white; 
+    border-radius:5px;
+  }
+  #file{
+
+      background-color:red;
+
+
+
+  }
+  #input{
+     background-color: yellow;
+     border-color: blue;
+
+
+
+  }
+  progress::-webkit-progress-value {
+        background: pink;
+    }
+.text{
+
+      background-color: crimson;
+      text-decoration: underline;
+      text-shadow: 0lvw;
+      color: aqua;
+      text-align: center;
+
+
+
+
+
+
+    }
